@@ -1,7 +1,9 @@
-# Calculadora
+# Atividade Individual - Tema: Caixa Branca (Parte 2)
 
 ### Nome: Ana Luiza Nogueira de Araujo
 
 ### RA: 236943
 
-Reposítorio para envio dos documentos referente à AF
+## Branch:
+- Calculadora (código-fonte e testes)
+- Refatoração (código-fonte, testes e documentação)

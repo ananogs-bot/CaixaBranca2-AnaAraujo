@@ -5,5 +5,5 @@
 ### RA: 236943
 
 ## Branch:
-- Calculadora (código-fonte e testes)
+- Main (código-fonte e testes)
 - Refatoração (código-fonte, testes e documentação)
